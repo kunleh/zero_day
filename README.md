@@ -1,3 +1,1 @@
-*Emphasize* _emphasize_
-**Strong** __Strong__
-A [http://www.google.com "Google"]
+**This file is mandatory in projects**
